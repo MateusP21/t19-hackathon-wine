@@ -52,4 +52,10 @@ Neste projeto pude aprender mais sobre:
 * Utilização e configuração de ESLINT.
 * Trabalho em grupo.
 
+## ✒️ Colaboradores
+
+* [João Gabriel](https://github.com/jgabrielfes)
+* [Lucas Castanheira](https://github.com/Lucas-PCN)
+* [José Carlos](https://github.com/carlos-souza-lima)
+
  Made with 💙 in Rio de Janeiro, Brasil.
